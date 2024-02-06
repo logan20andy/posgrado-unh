@@ -54,14 +54,14 @@
                                 <h3 class="widget-title">Contactos</h3>
                                 <ul class="widget_contact_wrapper">
                                     <li>
-                                        <h3>Dirección:</h3>  <a href="https://maps.app.goo.gl/iTpBgZg3NbPdx95SA">Jr. Victoria Garma Nº 330 y Jr. Hipólito Unánue Nº 209. Segundo Piso</a> 
+                                        <h3>Dirección:</h3> <i class="fa fa-map-marker" aria-hidden="true"></i> <a href="https://maps.app.goo.gl/iTpBgZg3NbPdx95SA">Jr. Victoria Garma Nº 330 y Jr. Hipólito Unánue Nº 209. Segundo Piso</a> 
                                     </li>
                                     <li>
                                         <h3>Correo electrónico:</h3>
-                                        <a href="mailto:posgrado@unh.edu.pe">posgrado@unh.edu.pe</a>
+                                        <a href="mailto:posgrado@unh.edu.pe"> <i class="fa fa-envelope" aria-hidden="true"></i> posgrado@unh.edu.pe</a>
                                     </li>
                                     <li>
-                                        <h3>LLamenos:</h3><a href="tel:+998034318">998034318</a>
+                                        <h3>LLamenos:</h3><a href="tel:+998034318"> <i class="fa fa-volume-control-phone" aria-hidden="true"></i> 998034318</a>
                                     </li>
                                 </ul>
                             </div>
