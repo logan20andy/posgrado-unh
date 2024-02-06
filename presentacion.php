@@ -126,13 +126,15 @@ include 'header.php';
                     </div>
                     <div class="col-lg-6">
                         <!-- col-bg-img-three -->
-                        <!-- <div class="col-bg-img-three ttm-col-bgimage-yes ttm-bg">
+                        <div class="col-bg-img-three ttm-col-bgimage-yes ttm-bg">
                             <div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
-                                <div class="ttm-col-wrapper-bg-layer-inner"></div>
+                                <div class="ttm-col-wrapper-bg-layer-inner">
+                                <img class="img-fluid ttm-equal-height-image" src="images/autoridades/DirectorEPG.png" alt="bg-image">
+                                </div>
                             </div>
                             <div class="layer-content">
                             </div>
-                        </div>col-bg-img-three end -->
+                        </div><!-- col-bg-img-three end -->
                         <img class="img-fluid ttm-equal-height-image" src="images/autoridades/DirectorEPG.png" alt="bg-image">
                     </div>
                 </div>
