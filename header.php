@@ -121,7 +121,7 @@
                             </nav>
                             <div class="header_extra d-flex flex-row align-items-center justify-content-end ml-auto">
                                 <div class="header_btn">
-                                    <a class="ttm-btn ttm-btn-style-fill ttm-icon-btn-right ttm-btn-size-md ttm-btn-color-skincolor" href="admision.php" rel="noopener" aria-label="btn"><i class="fa fa-university" aria-hidden="true"></i>ADMISIÓN</a>
+                                    <a class="ttm-btn ttm-btn-style-fill ttm-icon-btn-right ttm-btn-size-md ttm-btn-color-skincolor" href="admision.php" rel="noopener" aria-label="btn"><i class="fa fa-university" aria-hidden="true"></i> ADMISIÓN</a>
                                 </div>
                             </div>
                         </div><!-- site-navigation end-->
