@@ -87,7 +87,7 @@ include 'header.php';
                     </div>
                 </div><!-- row end -->
                 <div class="row no-gutters">
-                    <div class="col-lg-12">
+                    <div class="col-md-12">
                         <div class="ttm-bg ttm-col-bgcolor-yes ttm-bgcolor-darkgrey p-50 pt-45 pb-30 res-991-pl-15 res-991-pr-15">
                             <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
                             <div class="layer-content">
@@ -95,11 +95,11 @@ include 'header.php';
                                 <div class="mt-15 mb-15">
                                     <span class="ttm-horizontal_sep"></span>
                                 </div>
-                                <div class="col-lg-6">
+                                <div class="col-md-6">
                                     <h5 class="font-weight-normal mb-20">ESCUELA DE POSGRADO</h5>
                                     <p>Contribuir al perfeccionamiento académico mediante la investigación, especialización e innovación en el ámbito regional, nacional e internacional me­jorando la calidad de vida de la población.</p>
                                 </div>
-                                <div class="col-lg-6">
+                                <div class="col-md-6">
                                     <div class="d-sm-flex">
                                         <!-- featured-icon-box -->
                                         <div class="featured-icon-box icon-align-before-title">
