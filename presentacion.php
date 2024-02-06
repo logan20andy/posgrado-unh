@@ -46,10 +46,10 @@ include 'header.php';
                             </div><!-- section title end -->
                             <p>El fin primordial de los estudios de posgrado en nuestra Universidad Nacional de Huancavelica es la creación de conocimientos. </p>
                             <p>
-                                La Dirección de la Escuela de Posgrado a través de las Unidades de Posgrado persigue la excelencia y a la vez la pertinencia de la educación que imparte. Buscamos que la formación y la investigación en las maestrías y doctorados sean del más alto nivel, tanto por su calidad, como por la articulación con las necesidades de nuestra sociedad, el Perú y el mundo globalizado.
+                            La Dirección de la Escuela de Posgrado a través de las Unidades de Posgrado persigue la excelencia y a la vez la pertinencia de la educación que imparte. Buscamos que la formación y la investigación en las maestrías y doctorados sean del más alto nivel, tanto por su calidad, como por la articulación con las necesidades de nuestra sociedad, el Perú y el mundo globalizado.
                             </p>
                             <p>
-                                La orientación de la enseñanza y la investigación en las maestrías y doctorados, tienen una orientación multidisciplinaria que pro- mueve la colaboración entre distintos enfoques para el acerca- miento a los objetos de estudio.
+                            La orientación de la enseñanza y la investigación en las maestrías y doctorados, tienen una orientación multidisciplinaria que pro- mueve la colaboración entre distintos enfoques para el acerca- miento a los objetos de estudio.
                             </p>
                         </div>
                     </div>
@@ -61,7 +61,7 @@ include 'header.php';
                             </div> -->
                             <p>Las maestrías apuntan a la especialización académica y profesional. El doctorado es un programa de investigación que supone conocer la disciplina en la que uno quiere graduarse y está destinado para personas preocupadas por la profundización en temas teóricos o problemas específicos. El centro del trabajo doctoral es la investigación de tesis que se desarrolla en los laboratorios.</p>
                             <p>
-                                Finalmente, se invoca a quienes decidan postular a alguno de los programas de Maestría o Doctorado en cada una de las 09 Unidades de Posgrado que tiene nuestra institución a convertirse en verdaderos lideres en el trabajo académico para obtener exitosamente el grado respectivo.
+                            Finalmente, se invoca a quienes decidan postular a alguno de los programas de Maestría o Doctorado en cada una de las 09 Unidades de Posgrado que tiene nuestra institución a convertirse en verdaderos lideres en el trabajo académico para obtener exitosamente el grado respectivo.
                             </p>
                             <!-- featured-icon-box -->
                             <div class="featured-icon-box icon-align-before-content pt-5 res-991-pt-0">
@@ -101,30 +101,38 @@ include 'header.php';
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <!-- col-bg-img-three -->
-                        <div class="d-sm-flex">
-                            <!-- featured-icon-box -->
-                            <div class="featured-icon-box icon-align-before-title">
-                                <div class="featured-icon">
-                                    <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                        <i class="flaticon-university-1"></i>
-                                    </div>
+                        <div class="ttm-bg ttm-col-bgcolor-yes ttm-bgcolor-darkgrey p-50 pt-45 pb-30 res-991-pl-15 res-991-pr-15">
+                            <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                            <div class="layer-content">
+                                <h3 class="font-weight-normal fs-24"></h3>
+                                <div class="mt-15 mb-15">
+                                    <span class="ttm-horizontal_sep"></span>
                                 </div>
-                                <div class="featured-title">
-                                    <h3 class="fs-18 font-weight-normal">Docentes <br> Especializados</h3>
+                                <div class="d-sm-flex">
+                                    <!-- featured-icon-box -->
+                                    <div class="featured-icon-box icon-align-before-title">
+                                        <div class="featured-icon">
+                                            <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                                <i class="flaticon-university-1"></i>
+                                            </div>
+                                        </div>
+                                        <div class="featured-title">
+                                            <h3 class="fs-18 font-weight-normal">Docentes <br> Especializados</h3>
+                                        </div>
+                                    </div><!-- featured-icon-box end-->
+                                    <!-- featured-icon-box -->
+                                    <div class="featured-icon-box icon-align-before-title pl-30 ml-30 border-left res-575-ml-0 res-575-pl-0">
+                                        <div class="featured-icon">
+                                            <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                                <i class="flaticon-education"></i>
+                                            </div>
+                                        </div>
+                                        <div class="featured-title">
+                                            <h3 class="fs-18 font-weight-normal">Calidad <br> Académica</h3>
+                                        </div>
+                                    </div><!-- featured-icon-box end-->
                                 </div>
-                            </div><!-- featured-icon-box end-->
-                            <!-- featured-icon-box -->
-                            <div class="featured-icon-box icon-align-before-title pl-30 ml-30 border-left res-575-ml-0 res-575-pl-0">
-                                <div class="featured-icon">
-                                    <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                        <i class="flaticon-education"></i>
-                                    </div>
-                                </div>
-                                <div class="featured-title">
-                                    <h3 class="fs-18 font-weight-normal">Calidad <br> Académica</h3>
-                                </div>
-                            </div><!-- featured-icon-box end-->
+                            </div>
                         </div>
                     </div>
                 </div>
