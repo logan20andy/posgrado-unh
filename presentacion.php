@@ -95,9 +95,11 @@ include 'header.php';
                                 <div class="mt-15 mb-15">
                                     <span class="ttm-horizontal_sep"></span>
                                 </div>
-                                <h5 class="font-weight-normal mb-20">ESCUELA DE POSGRADO</h5>
-                                <p>Contribuir al perfeccionamiento académico mediante la investigación, especialización e innovación en el ámbito regional, nacional e internacional me­jorando la calidad de vida de la población.</p>
-                                <div class="d-sm-flex">
+                                <div class="col-lg-6">
+                                    <h5 class="font-weight-normal mb-20">ESCUELA DE POSGRADO</h5>
+                                    <p>Contribuir al perfeccionamiento académico mediante la investigación, especialización e innovación en el ámbito regional, nacional e internacional me­jorando la calidad de vida de la población.</p>
+                                </div>
+                                <div class="col-lg-6 d-sm-flex">
                                     <!-- featured-icon-box -->
                                     <div class="featured-icon-box icon-align-before-title">
                                         <div class="featured-icon">
