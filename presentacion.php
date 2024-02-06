@@ -67,7 +67,7 @@ include 'header.php';
                             <div class="featured-icon-box icon-align-before-content pt-5 res-991-pt-0">
                                 <div class="featured-icon">
                                     <div class="img-content">
-                                        <img class="img-fluid" src="images/sign-02.png" alt="sign-02">
+                                        <img class="img-fluid" src="images/autoridades/DirectorEPG.png" alt="sign-02">
                                     </div>
                                 </div>
                                 <div class="featured-content pl-30">
@@ -87,7 +87,7 @@ include 'header.php';
                     </div>
                 </div><!-- row end -->
                 <div class="row no-gutters">
-                    <div class="col-lg-6">
+                    <div class="col-lg-12">
                         <div class="ttm-bg ttm-col-bgcolor-yes ttm-bgcolor-darkgrey p-50 pt-45 pb-30 res-991-pl-15 res-991-pr-15">
                             <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
                             <div class="layer-content">
@@ -123,19 +123,6 @@ include 'header.php';
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <!-- col-bg-img-three -->
-                        <div class="col-bg-img-three ttm-col-bgimage-yes ttm-bg">
-                            <div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
-                                <div class="ttm-col-wrapper-bg-layer-inner">
-                                <img class="img-fluid ttm-equal-height-image" src="images/autoridades/DirectorEPG.png" alt="bg-image">
-                                </div>
-                            </div>
-                            <div class="layer-content">
-                            </div>
-                        </div><!-- col-bg-img-three end -->
-                        <img class="img-fluid ttm-equal-height-image" src="images/autoridades/DirectorEPG.png" alt="bg-image">
                     </div>
                 </div>
             </div>
