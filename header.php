@@ -43,9 +43,9 @@
                             <span class="mr-2">Nuestras Redes :</span>
                             <ul class="social-icons">
                                 <li><a href="https://www.facebook.com/universidadunh" rel="noopener" aria-label="facebook"><i class="fa fa-facebook"></i></a></li>
-                                <li> <a href="https://www.youtube.com/channel/UCU1xRWArgbVQR9qUM7j6J5Q" rel="noopener" aria-label="twitter"><i class="fa fa-you-tube"></i></a></li>
-                                <!-- <li><a href="https://dribbble.com/themetechmount" rel="noopener" aria-label="dribbble"><i class="fa fa-dribbble"></i></a></li>
-                                        <li><a href="https://www.linkedin.com/company/themetech-mount/" rel="noopener" aria-label="linkedin"><i class="fa fa-linkedin"></i></a></li> -->
+                                <li> <a href="https://www.youtube.com/channel/UCU1xRWArgbVQR9qUM7j6J5Q" rel="noopener" aria-label="twitter"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.instagram.com/unh_huancavelica/" rel="noopener" aria-label="dribbble"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.linkedin.com/school/universidad-nacional-de-huancavelica/mycompany/" rel="noopener" aria-label="linkedin"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
                             </ul>
                         </div>
                     </div>
