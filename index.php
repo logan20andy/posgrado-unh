@@ -407,8 +407,8 @@ include 'header.php';
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="row slick_slider mt-20 res-991-mt-0" data-slick='{"slidesToShow": 4, "slidesToScroll": 0, "arrows":false, "autoplay":false, "centerMode":true, "centerPadding":0, "infinite":true, "initialSlide":8, "responsive": [{"breakpoint":1100,"settings":{"slidesToShow": 4}} , {"breakpoint":777,"settings":{"slidesToShow": 4}},
-                                    {"breakpoint":590,"settings":{"slidesToShow": 3}}]}'>
+                    <div class="row slick_slider mt-20 res-991-mt-0" data-slick='{"slidesToShow": 4, "slidesToScroll": 0, "arrows":false, "autoplay":false, "centerMode":true, "centerPadding":0, "infinite":true, "initialSlide":8, "responsive": [{"breakpoint":1100,"settings":{"slidesToShow": 4}} , {"breakpoint":777,"settings":{"slidesToShow": 3}},
+                                    {"breakpoint":590,"settings":{"slidesToShow":2}}]}'>
                         <div class="ttm-box-col-wrapper col-lg-4">
                             <!-- featured-imagebox-course -->
                             <div class="featured-imagebox featured-imagebox-course">
