@@ -637,7 +637,7 @@ include 'header.php';
                             </div><!-- col-img-bg-img-one end-->
                             <img width="905" height="617" class="img-fluid ttm-equal-height-image" src="images/bg-image/col-bgimage-6.jpg" alt="bg-image">
                         </div>
-                        <div class="col-lg-6">
+                        <div class="col-lg-6 col-md-12">
                             <div class="ttm-bg col-bg-img-seven ttm-bgcolor-darkgrey ttm-col-bgimage-yes ttm-right-span spacing-8 z-index-0">
                                 <div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
                                     <div class="ttm-col-wrapper-bg-layer-inner"></div>
@@ -652,7 +652,7 @@ include 'header.php';
                                     </div><!-- section title end -->
                                     <div class="pt-20 res-991-pt-0">
                                         <div class="row">
-                                            <div class="col-lg-12 ">
+                                            <div>
                                                 <!--featured-imagebox-blog-->
                                                 <div class="featured-imagebox featured-imagebox-post style2">
                                                     <div class="featured-content">
