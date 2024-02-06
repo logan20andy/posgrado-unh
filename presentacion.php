@@ -86,26 +86,34 @@ include 'header.php';
                         </div>
                     </div>
                 </div><!-- row end -->
+
+                <div class="col-lg-12">
+                        <!-- section title -->
+                        <div class="section-title section-title title-style-center_text">
+                            <div class="title-header">
+                                <h3>Nuestra Misión</h3>
+                                <h2 class="title">ESCUELA DE POSGRADO</h2>
+                            </div>
+                        </div><!-- section title end -->
+                    </div>
                 <div class="row no-gutters">
-                <h3 class="font-weight-normal fs-24">Nuestra Misión</h3>
                     <div class="col-lg-6">
                         <div class="ttm-bg ttm-col-bgcolor-yes ttm-bgcolor-darkgrey p-50 pt-45 pb-30 res-991-pl-15 res-991-pr-15">
-                            <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
+                            <div class="ttm-col-wrapper-bg-layer ttm-bg-layer">
+                            </div>
                             <div class="layer-content">
-                                <div class="mt-15 mb-15">
+                                <div class="mt-5 mb-5">
                                     <span class="ttm-horizontal_sep"></span>
                                 </div>
-                                <h5 class="font-weight-normal mb-20">ESCUELA DE POSGRADO</h5>
                                 <p>Contribuir al perfeccionamiento académico mediante la investigación, especialización e innovación en el ámbito regional, nacional e internacional me­jorando la calidad de vida de la población.</p>
                             </div>
                         </div>
-                    </div>
+                        </div>
                     <div class="col-lg-6">
                         <div class="ttm-bg ttm-col-bgcolor-yes ttm-bgcolor-darkgrey p-50 pt-45 pb-30 res-991-pl-15 res-991-pr-15">
                             <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
                             <div class="layer-content">
-                                <h3 class="font-weight-normal fs-24"></h3>
-                                <div class="mt-15 mb-15">
+                                <div class="mt-5 mb-5">
                                     <span class="ttm-horizontal_sep"></span>
                                 </div>
                                 <div class="d-sm-flex">
