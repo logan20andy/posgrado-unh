@@ -34,7 +34,7 @@
                         <div class="top_bar_icon"><i class="fa fa-envelope-o"></i></div><a href="mailto:posgrado@unh.edu.pe">posgrado@unh.edu.pe</a>
                     </div>
                     <div class="top_bar_contact_item">
-                        <div class="top_bar_icon"> <i class="fa fa-map-marker"></i><a href="https://www.unh.edu.pe/" target="_blank"> Universidad Nacional de Huancavelica. </a></div>
+                        <div class="top_bar_icon"> <i class="fa fa-globe" aria-hidden="true"></i><a href="https://www.unh.edu.pe/" target="_blank"> Universidad Nacional de Huancavelica. </a></div>
                     </div>
                 </div>
                 <div class="col-lg-6 d-flex flex-row align-items-center">
@@ -46,6 +46,7 @@
                                 <li> <a href="https://www.youtube.com/channel/UCU1xRWArgbVQR9qUM7j6J5Q" rel="noopener" aria-label="twitter"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
                                 <li><a href="https://www.instagram.com/unh_huancavelica/" rel="noopener" aria-label="dribbble"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
                                 <li><a href="https://www.linkedin.com/school/universidad-nacional-de-huancavelica/mycompany/" rel="noopener" aria-label="linkedin"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+                                <li><a href="https://www.tiktok.com/@unh_huancavelica?lang=es" rel="noopener" aria-label="linkedin"><i class="fa fa-music" aria-hidden="true"></i></a></li>
                             </ul>
                         </div>
                     </div>
