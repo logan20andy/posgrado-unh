@@ -86,8 +86,8 @@ include 'header.php';
                         </div>
                     </div>
                 </div><!-- row end -->
-                <div class="row">
-                    <div class="col-md-12">
+                <div class="row no-gutters">
+                    <div class="col-lg-12">
                         <div class="ttm-bg ttm-col-bgcolor-yes ttm-bgcolor-darkgrey p-50 pt-45 pb-30 res-991-pl-15 res-991-pr-15">
                             <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
                             <div class="layer-content">
@@ -95,35 +95,36 @@ include 'header.php';
                                 <div class="mt-15 mb-15">
                                     <span class="ttm-horizontal_sep"></span>
                                 </div>
-                                <div class="col-md-6">
-                                    <h5 class="font-weight-normal mb-20">ESCUELA DE POSGRADO</h5>
-                                    <p>Contribuir al perfeccionamiento académico mediante la investigación, especialización e innovación en el ámbito regional, nacional e internacional me­jorando la calidad de vida de la población.</p>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="d-sm-flex">
-                                        <div class="featured-icon-box icon-align-before-title">
-                                            <div class="featured-icon">
-                                                <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                                    <i class="flaticon-university-1"></i>
-                                                </div>
-                                            </div>
-                                            <div class="featured-title">
-                                                <h3 class="fs-18 font-weight-normal">Docentes <br> Especializados</h3>
-                                            </div>
-                                        </div>
-                                        <div class="featured-icon-box icon-align-before-title pl-30 ml-30 border-left res-575-ml-0 res-575-pl-0">
-                                            <div class="featured-icon">
-                                                <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md">
-                                                    <i class="flaticon-education"></i>
-                                                </div>
-                                            </div>
-                                            <div class="featured-title">
-                                                <h3 class="fs-18 font-weight-normal">Calidad <br> Académica</h3>
-                                            </div>
-                                        </div>
+                                <h5 class="font-weight-normal mb-20">ESCUELA DE POSGRADO</h5>
+                                <p>Contribuir al perfeccionamiento académico mediante la investigación, especialización e innovación en el ámbito regional, nacional e internacional me­jorando la calidad de vida de la población.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <!-- col-bg-img-three -->
+                        <div class="d-sm-flex">
+                            <!-- featured-icon-box -->
+                            <div class="featured-icon-box icon-align-before-title">
+                                <div class="featured-icon">
+                                    <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                        <i class="flaticon-university-1"></i>
                                     </div>
                                 </div>
-                            </div>
+                                <div class="featured-title">
+                                    <h3 class="fs-18 font-weight-normal">Docentes <br> Especializados</h3>
+                                </div>
+                            </div><!-- featured-icon-box end-->
+                            <!-- featured-icon-box -->
+                            <div class="featured-icon-box icon-align-before-title pl-30 ml-30 border-left res-575-ml-0 res-575-pl-0">
+                                <div class="featured-icon">
+                                    <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md">
+                                        <i class="flaticon-education"></i>
+                                    </div>
+                                </div>
+                                <div class="featured-title">
+                                    <h3 class="fs-18 font-weight-normal">Calidad <br> Académica</h3>
+                                </div>
+                            </div><!-- featured-icon-box end-->
                         </div>
                     </div>
                 </div>
