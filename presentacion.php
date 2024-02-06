@@ -86,7 +86,7 @@ include 'header.php';
                         </div>
                     </div>
                 </div><!-- row end -->
-                <div class="row no-gutters">
+                <div class="row">
                     <div class="col-md-12">
                         <div class="ttm-bg ttm-col-bgcolor-yes ttm-bgcolor-darkgrey p-50 pt-45 pb-30 res-991-pl-15 res-991-pr-15">
                             <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
@@ -101,7 +101,6 @@ include 'header.php';
                                 </div>
                                 <div class="col-md-6">
                                     <div class="d-sm-flex">
-                                        <!-- featured-icon-box -->
                                         <div class="featured-icon-box icon-align-before-title">
                                             <div class="featured-icon">
                                                 <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md">
@@ -111,8 +110,7 @@ include 'header.php';
                                             <div class="featured-title">
                                                 <h3 class="fs-18 font-weight-normal">Docentes <br> Especializados</h3>
                                             </div>
-                                        </div><!-- featured-icon-box end-->
-                                        <!-- featured-icon-box -->
+                                        </div>
                                         <div class="featured-icon-box icon-align-before-title pl-30 ml-30 border-left res-575-ml-0 res-575-pl-0">
                                             <div class="featured-icon">
                                                 <div class="ttm-icon ttm-icon_element-onlytxt ttm-icon_element-color-skincolor ttm-icon_element-size-md">
@@ -122,9 +120,8 @@ include 'header.php';
                                             <div class="featured-title">
                                                 <h3 class="fs-18 font-weight-normal">Calidad <br> Académica</h3>
                                             </div>
-                                        </div><!-- featured-icon-box end-->
+                                        </div>
                                     </div>
-
                                 </div>
                             </div>
                         </div>
