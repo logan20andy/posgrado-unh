@@ -133,7 +133,7 @@ include 'header.php';
                             <div class="layer-content">
                             </div>
                         </div><!-- col-bg-img-three end -->
-                        <img class="img-fluid" src="images/autoridades/DirectorEPG.png" alt="bg-image">
+                        <img src="images/autoridades/DirectorEPG.png" alt="bg-image">
                     </div>
                 </div>
             </div>
