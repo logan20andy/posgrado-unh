@@ -87,11 +87,11 @@ include 'header.php';
                     </div>
                 </div><!-- row end -->
                 <div class="row no-gutters">
+                <h3 class="font-weight-normal fs-24">Nuestra Misión</h3>
                     <div class="col-lg-6">
                         <div class="ttm-bg ttm-col-bgcolor-yes ttm-bgcolor-darkgrey p-50 pt-45 pb-30 res-991-pl-15 res-991-pr-15">
                             <div class="ttm-col-wrapper-bg-layer ttm-bg-layer"></div>
                             <div class="layer-content">
-                                <h3 class="font-weight-normal fs-24">Nuestra Misión</h3>
                                 <div class="mt-15 mb-15">
                                     <span class="ttm-horizontal_sep"></span>
                                 </div>
