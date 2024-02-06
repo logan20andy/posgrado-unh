@@ -54,7 +54,7 @@
                                 <h3 class="widget-title">Contactos</h3>
                                 <ul class="widget_contact_wrapper">
                                     <li>
-                                        <h3>Dirección:</h3> <i class="fa fa-map-marker" aria-hidden="true"></i> <a href="https://maps.app.goo.gl/iTpBgZg3NbPdx95SA">Jr. Victoria Garma Nº 330 y Jr. Hipólito Unánue Nº 209. Segundo Piso</a> 
+                                        <h3>Dirección:</h3> <a href="https://maps.app.goo.gl/iTpBgZg3NbPdx95SA"> <i class="fa fa-map-marker" aria-hidden="true"></i> Jr. Victoria Garma Nº 330 y Jr. Hipólito Unánue Nº 209. Segundo Piso</a> 
                                     </li>
                                     <li>
                                         <h3>Correo electrónico:</h3>
