@@ -72,7 +72,7 @@
             <div class="bottom-footer-text">
                 <div class="container">
                     <div class="row">
-                        <h6>Copyright © <?php echo date("Y"); ?> <a href="http://unh.edu.pe/" target="_blank"> Oficina de Tecnologías de la Información</h6>
+                        <h6>Copyright © <?php echo date("Y"); ?> <a href="#" target="_blank"> Andercodev</h6>
                             </p>
                         </div>
                     </div>
